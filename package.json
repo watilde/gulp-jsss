@@ -1,0 +1,31 @@
+{
+  "name": "gulp-jsss",
+  "version": "0.0.1",
+  "description": "Compile jsss to CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/watilde/gulp-jsss.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "jsss"
+  ],
+  "author": {
+    "name": "Daijiro Wachi",
+    "email": "daijiro.wachi@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/gulp-jsss/issues"
+  },
+  "homepage": "https://github.com/watilde/gulp-jsss",
+  "dependencies": {
+    "gulp-util": "^2.2.19",
+    "jsss-compiler": "0.0.3",
+    "through2": "^0.5.1"
+  }
+}
