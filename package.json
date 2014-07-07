@@ -18,7 +18,7 @@
     "name": "Daijiro Wachi",
     "email": "daijiro.wachi@gmail.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/watilde/gulp-jsss/issues"
   },
