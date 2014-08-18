@@ -1,6 +1,6 @@
 {
   "name": "gulp-jsss",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Compile jsss to CSS",
   "main": "index.js",
   "scripts": {
